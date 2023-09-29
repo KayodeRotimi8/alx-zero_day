@@ -1,1 +1,1 @@
-Learning to create a new directory
+Learning how to create a new directory
